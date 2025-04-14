@@ -36,8 +36,8 @@ Hull Structural Analysis
 동적인 힘: 파랑 관성 진동 바람
 
 ----
-
 선박의 6자유도 운동
+
 ![image](https://github.com/user-attachments/assets/cc6330d0-3f42-4470-8c68-1bee15cf7217)
 
 -----
